@@ -26,7 +26,7 @@ pcheck /Users/kwalters/go/src/github.com/lostghost/pcheck
 ## Todo
 
 - ~~Parse a single package path from command line arg~~
-- Parse a single package name from command line arg (path from GOPATH)
+- ~~Parse a single package name from command line arg (path from GOPATH)~~
 - ~~Show a list of imported packages in a single package~~
 - Flag to exclude std packages
 - Flag to include test packages
