@@ -29,7 +29,7 @@ pcheck /Users/kwalters/go/src/github.com/lostghost/pcheck
 - ~~Parse a single package name from command line arg (path from GOPATH)~~
 - ~~Show a list of imported packages in a single package~~
 - Flag to exclude std packages
-- Flag to include test packages
+- ~~Flag to include test packages~~
 - Show a list of imported packages for a package and all of it's imported packages
 - Show a nested list of imported packages for a package and all of it's imported packages
 - Show missing packages
